@@ -1,0 +1,13 @@
+C:\Users\Byron\Documents\DESARROLLO DE SOFTWARE\TERCER SEMESTRE\PROGRAMACION VISUAL\ConsoleTarea1\ConsoleTarea1\bin\Debug\netcoreapp3.1\ConsoleTarea1.exe
+C:\Users\Byron\Documents\DESARROLLO DE SOFTWARE\TERCER SEMESTRE\PROGRAMACION VISUAL\ConsoleTarea1\ConsoleTarea1\bin\Debug\netcoreapp3.1\ConsoleTarea1.deps.json
+C:\Users\Byron\Documents\DESARROLLO DE SOFTWARE\TERCER SEMESTRE\PROGRAMACION VISUAL\ConsoleTarea1\ConsoleTarea1\bin\Debug\netcoreapp3.1\ConsoleTarea1.runtimeconfig.json
+C:\Users\Byron\Documents\DESARROLLO DE SOFTWARE\TERCER SEMESTRE\PROGRAMACION VISUAL\ConsoleTarea1\ConsoleTarea1\bin\Debug\netcoreapp3.1\ConsoleTarea1.runtimeconfig.dev.json
+C:\Users\Byron\Documents\DESARROLLO DE SOFTWARE\TERCER SEMESTRE\PROGRAMACION VISUAL\ConsoleTarea1\ConsoleTarea1\bin\Debug\netcoreapp3.1\ConsoleTarea1.dll
+C:\Users\Byron\Documents\DESARROLLO DE SOFTWARE\TERCER SEMESTRE\PROGRAMACION VISUAL\ConsoleTarea1\ConsoleTarea1\bin\Debug\netcoreapp3.1\ConsoleTarea1.pdb
+C:\Users\Byron\Documents\DESARROLLO DE SOFTWARE\TERCER SEMESTRE\PROGRAMACION VISUAL\ConsoleTarea1\ConsoleTarea1\obj\Debug\netcoreapp3.1\ConsoleTarea1.csprojAssemblyReference.cache
+C:\Users\Byron\Documents\DESARROLLO DE SOFTWARE\TERCER SEMESTRE\PROGRAMACION VISUAL\ConsoleTarea1\ConsoleTarea1\obj\Debug\netcoreapp3.1\ConsoleTarea1.AssemblyInfoInputs.cache
+C:\Users\Byron\Documents\DESARROLLO DE SOFTWARE\TERCER SEMESTRE\PROGRAMACION VISUAL\ConsoleTarea1\ConsoleTarea1\obj\Debug\netcoreapp3.1\ConsoleTarea1.AssemblyInfo.cs
+C:\Users\Byron\Documents\DESARROLLO DE SOFTWARE\TERCER SEMESTRE\PROGRAMACION VISUAL\ConsoleTarea1\ConsoleTarea1\obj\Debug\netcoreapp3.1\ConsoleTarea1.csproj.CoreCompileInputs.cache
+C:\Users\Byron\Documents\DESARROLLO DE SOFTWARE\TERCER SEMESTRE\PROGRAMACION VISUAL\ConsoleTarea1\ConsoleTarea1\obj\Debug\netcoreapp3.1\ConsoleTarea1.dll
+C:\Users\Byron\Documents\DESARROLLO DE SOFTWARE\TERCER SEMESTRE\PROGRAMACION VISUAL\ConsoleTarea1\ConsoleTarea1\obj\Debug\netcoreapp3.1\ConsoleTarea1.pdb
+C:\Users\Byron\Documents\DESARROLLO DE SOFTWARE\TERCER SEMESTRE\PROGRAMACION VISUAL\ConsoleTarea1\ConsoleTarea1\obj\Debug\netcoreapp3.1\ConsoleTarea1.genruntimeconfig.cache
